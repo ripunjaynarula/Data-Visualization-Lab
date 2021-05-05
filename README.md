@@ -1,2 +1,2 @@
-# lData-Visualization-Lab
+# Data-Visualization-Lab
 DV lab for win sem 2021
